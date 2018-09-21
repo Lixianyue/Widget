@@ -1,0 +1,6 @@
+framework module ShareTable {
+  umbrella header "ShareTable.h"
+
+  export *
+  module * { export * }
+}
